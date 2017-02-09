@@ -76,7 +76,6 @@ class RestaurantTableViewController: UITableViewController {
         
         tableView.deselectRow(at: indexPath, animated: false)
         
-
     }
    
     
